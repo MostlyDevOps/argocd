@@ -1,0 +1,11 @@
+{
+  "appName": "wordsmith",
+  "userGivenName": "wordsmith",
+  "destNamespace": "staging01",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/wordsmith/overlays/staging",
+  "srcRepoURL": "https://github.com/mostlydevops/argocd-autopilot.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
